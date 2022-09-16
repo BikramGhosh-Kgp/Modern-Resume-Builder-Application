@@ -1,0 +1,56 @@
+#template{
+    display: none;
+}
+.myimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.bg{
+    background-color:aqua;
+}
+#so_aT{
+    float: left;
+    text-decoration: none;
+    font-weight: 700;
+}
+#sklT{
+    float: left;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.page {
+    background-color: whitesmoke;
+    width: 70%;
+    height: max-content;
+    margin: 0% 13%;
+    box-shadow: 0px 0px 29px gray;
+    border-radius: 27px;
+}
+
+hr {
+    border: 2px solid black;
+}
+
+.image {
+    display: flex;
+}
+
+.container .row .col-md-6 .form-group>input[type=file] {
+    display: none;
+}
+
+.container img {
+    height: 200px;
+    width: 200px;
+}
+
+.name {
+    width: 60%;
+
+}
